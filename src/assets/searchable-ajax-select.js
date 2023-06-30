@@ -93,7 +93,6 @@
 
                         $option.on('click', function () {
                             $select.val(option.id);
-                            $searchInput.val(option.text);
                             $dropdown.empty();
                             var spanVal = '<span class="selected-searchable-item">' + option.text + '</span>';
                             spanVal += '<span class="selected-searchable-item-remove">x</span>';
