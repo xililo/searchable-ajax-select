@@ -2,7 +2,7 @@
     "name": "xililo/searchable-ajax-select",
     "description": "Searchable Ajax Select Widget for Yii2",
     "type": "yii2-extension",
-    "license": "MIT License",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Xililo\\SearchableAjaxSelect\\": "src/"
