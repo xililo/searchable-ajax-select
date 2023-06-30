@@ -4,7 +4,7 @@ namespace xililo\SearchableAjaxSelect;
 
 use yii\web\AssetBundle;
 
-class SearchableSelectInputAsset extends AssetBundle
+class SearchableAjaxSelectAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/xililo/searchable-ajax-select/src/assets';
     public $js = [

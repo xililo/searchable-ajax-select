@@ -31,7 +31,7 @@ class SearchableAjaxSelect extends InputWidget
                 });
             JS;
         $view->registerJs($js, View::POS_READY);
-        SearchableSelectInputAsset::register($view);
+        SearchableAjaxSelectAsset::register($view);
         $this->options['class'] = 'search-input';
         $this->options['id'] = $searchInputId;
 
