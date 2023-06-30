@@ -5,7 +5,7 @@
     "license": "proprietary",
     "autoload": {
         "psr-4": {
-            "Xililo\\SearchableAjaxSelect\\": "src/"
+            "xililo\\SearchableAjaxSelect\\": "src/"
         }
     },
     "authors": [
